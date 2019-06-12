@@ -7,7 +7,7 @@ import json;
 from pathlib import Path;
 import sys;
 
-from analyzer import analyze;
+from gat.analyzer import analyze;
 from graph import Graph;
 
 import codec.amr;
